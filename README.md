@@ -23,6 +23,7 @@ I'm a professional FullStack developer from Viet Nam.
 <a href="https://ra1nbow.xyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trancongduynguyen1997&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Nguyen's Stats" />
 </a>
+<br></br>
 <a href="https://ra1nbow.xyz">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=trancongduynguyen1997&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Nguyen's Stats" />
 </a>

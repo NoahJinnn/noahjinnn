@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Nguyen</h1><h4>Please DM me if you found difficult to pronounce my name 😂</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trancongduynguyen1997&label=Profile%20views&color=0e75b6&style=flat" alt="trancongduynguyen1997" /> </p>
 
-I'm a professional FullStack developer from Viet Nam.
+I'm a professional **Full-Stack** developer from Viet Nam.
 
 - 🔭 I am passionate about desinging & building app for business
 - ✨ My working profile [here](https://www.linkedin.com/in/tcdnguyen/)

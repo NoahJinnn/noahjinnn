@@ -20,10 +20,10 @@ I'm a professional **Full-Stack** developer from Viet Nam.
 <a href="https://gin-gonic.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/7894478?s=200&v=4" alt="gin" width="40" height="40"/> </a></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/303232/mongodb-logo.svg" alt="gin" width="40" height="40"/> </a></a>
 
-<a href="https://ra1nbow.xyz">
+<a href="https://github.com/trancongduynguyen1997">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trancongduynguyen1997&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Nguyen's Stats" />
 </a>
 <br></br>
-<a href="https://ra1nbow.xyz">
+<a href="https://github.com/trancongduynguyen1997">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=trancongduynguyen1997&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Nguyen's Stats" />
 </a>

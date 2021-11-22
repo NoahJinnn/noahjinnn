@@ -26,5 +26,5 @@ I'm a professional **Full-Stack** developer from Viet Nam.
 </a>
 <br></br>
 <a href="https://github.com/trancongduynguyen1997">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=trancongduynguyen1997&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Nguyen's Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=trancongduynguyen1997&custom_title=My Github Stats&show_icons=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="Nguyen's Stats" />
 </a>

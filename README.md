@@ -8,9 +8,6 @@ I'm a professional **Full-Stack** developer from Viet Nam.
 - ✨ My working profile [here](https://www.linkedin.com/in/tcdnguyen/)
 - 📫 Reach me **tcdnguyen1997@gmail.com**
 
-**Languages:**  
-- Rust, Golang, Java, Javascript
-
 <a href="https://github.com/trancongduynguyen1997">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trancongduynguyen1997&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Nguyen's Stats" />
 </a>

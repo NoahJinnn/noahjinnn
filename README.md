@@ -14,5 +14,5 @@
 - ✨ My working profile [here](https://www.linkedin.com/in/tcdnguyen/)
 - 📫 Reach me **tcdnguyen1997@gmail.com**
 
-<h4>Please DM me if you found difficult to pronounce my name 😂</h4>
+<h4>Thanks for reading! Please DM me if you found difficult to pronounce my name 😂</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trancongduynguyen1997&label=Profile%20views&color=0e75b6&style=flat" alt="trancongduynguyen1997" /> </p>

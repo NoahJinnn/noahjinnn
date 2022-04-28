@@ -1,7 +1,8 @@
 <h1>Hello world 👋</h1>
 
-I'm a **Rustacean/Gopher** can do _full-stack_ and also _Devops_. Crave to make extraordinary products in crypto world.
-=
+### I'm a **Rustacean/Gopher** can do _full-stack_ and also _Devops_.
+### Working on DeFi products.
+### Managing software development team to deliver web apps. 
 
 Main languages:
 - Rust

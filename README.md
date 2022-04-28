@@ -1,16 +1,15 @@
 <h1>Hello world 👋</h1>
 
 ### I'm a **Rustacean/Gopher** can do _full-stack_ and also _Devops_.
-### Working on DeFi products.
-### Managing software development team to deliver web apps. 
+### I'm working on DeFi products & managing software development team to deliver web apps. 
 
-Main languages:
+### Main languages:
 - Rust
 - Golang
 - Java
 - Javascript
 
-About me:
+### About me:
 - 🔭 I am passionate about desinging & building app for business
 - ✨ My working profile [here](https://www.linkedin.com/in/tcdnguyen/)
 - 📫 Reach me **tcdnguyen1997@gmail.com**

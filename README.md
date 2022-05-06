@@ -1,7 +1,7 @@
 <h1>Hello world 👋</h1>
 
 ### I'm a **Rustacean/Gopher** can do _full-stack_ and also _Devops_.
-### I'm working on DeFi products & leading software development team to deliver web apps. 
+### I'm working on DeFi products & leading software development team to deliver web apps. [OUR WORKS](https://1devin.vercel.app/)
 
 ### Main languages:
 - Rust
@@ -10,8 +10,8 @@
 - Javascript
 
 ### About me:
-- 🔭 I am passionate about desinging & building app for business
-- ✨ My working profile [here](https://www.linkedin.com/in/tcdnguyen/)
+- 🔭 I am passionate about desinging & building app for business.
+- ✨ Professional profile [here](https://www.linkedin.com/in/tcdnguyen/)
 - 📫 Reach me **tcdnguyen1997@gmail.com**
 
 <h4>Thanks for reading! Please DM me if you found difficult to pronounce my name 😂</h4>

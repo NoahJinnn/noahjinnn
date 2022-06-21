@@ -1,7 +1,7 @@
 <h1>Hello world 👋</h1>
 
 ### I'm a **Rustacean/Gopher** can do _full-stack_ and also _Devops_.
-### I'm working on DeFi products & leading software development team to deliver web apps. [OUR WORKS](https://1devin.vercel.app/)
+### I'm working on DeFi products & leading software development team to deliver web apps.
 
 ### Main languages:
 - Rust

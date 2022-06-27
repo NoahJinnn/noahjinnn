@@ -11,7 +11,7 @@
 
 ### About me:
 - 🔭 I am passionate about desinging & building app for business.
-- ✨ My Linkedin [here](https://www.linkedin.com/in/noahjin/)
+- ✨ [My Linkedin](https://www.linkedin.com/in/noahjin/)
 - 📫 Reach me **tcdnguyen1997@gmail.com**
 
 <h4>Thanks for reading! Please DM me if you found difficult to pronounce my name 😂</h4>

@@ -1,13 +1,7 @@
 <h1>Hello world 👋</h1>
 
-### I'm a **Rustacean/Gopher** can do _full-stack_ and also _Devops_.
+### Software Engineer | Fintech, IoT Start-up | Rust, Go, Js, Flutter, WASM
 ### I'm leading a software development team to deliver applications that will make your business ideas come true.
-
-### Main languages:
-- Rust
-- Golang
-- Java
-- Javascript
 
 ### About me:
 - 🔭 I am passionate about desinging & building app for business.

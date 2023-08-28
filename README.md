@@ -1,10 +1,15 @@
 <h1>Hello world 👋</h1>
 
-### Software Engineer | Fintech, IoT Start-up | Rust, Go, Js, Flutter, WASM
-### I'm leading a software development team to deliver applications that will make your business ideas come true.
-
 ### About me:
-- 🔭 I am passionate about desinging & building app for business.
+- Software Engineer with 5 years of experience working for Fintech and IoT startups.
+- A full-stack developer, proficient in Rust, Golang, Javascript, and Flutter.
+- Experience with hybrid environment DevOps, WebAssembly, and cryptography engineering.
+- Love learning, especially new techs, and human behavior.
+- Want to build innovative and cool applications!
+
+
+### Contact:
+- 🔭 I am passionate about desinging & building application.
 - ✨ [My Linkedin](https://www.linkedin.com/in/noahjin/)
 - 📫 Reach me **tcdnguyen1997@gmail.com**
 

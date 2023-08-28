@@ -2,7 +2,7 @@
 
 ### About me:
 - Software Engineer with 5 years of experience working for Fintech and IoT startups.
-- A full-stack developer, proficient in Rust, Golang, Javascript, and Flutter.
+- A full-stack developer, focuses on Rust, Golang, Javascript, and Flutter.
 - Experience with hybrid environment DevOps, WebAssembly, and cryptography engineering.
 - Love learning, especially new techs, and human behavior.
 - Want to build innovative and cool applications!

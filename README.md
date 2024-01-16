@@ -1,11 +1,10 @@
 <h1>Hello world 👋</h1>
 
 ### About me:
-- Software Engineer with 5 years of experience working for Fintech and IoT startups.
-- A full-stack developer, focuses on Rust, Golang, Javascript, and Flutter.
-- Experience with hybrid environment DevOps, WebAssembly, and cryptography engineering.
-- Love learning, especially new techs, and human behavior.
-- Want to build innovative and cool applications!
+- 5 years experience SE working for Fintech and IoT startups.
+- Sufficient in Rust, Golang, Javascript, Flutter.
+- Hands-on DevOps (on-premise, cloud), WebAssembly, and cryptography engineering.
+- Always prioritize collaboration, clear communication, and customer.
 
 
 ### Contact:
@@ -13,5 +12,5 @@
 - ✨ [My Linkedin](https://www.linkedin.com/in/noahjin/)
 - 📫 Reach me **tcdnguyen1997@gmail.com**
 
-<h4>Thanks for reading! Please DM me if you found difficult to pronounce my name 😂</h4>
+<h4>Thanks for reading! Please DM me if you found it difficult to pronounce my name 😂</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trancongduynguyen1997&label=Profile%20views&color=0e75b6&style=flat" alt="trancongduynguyen1997" /> </p>

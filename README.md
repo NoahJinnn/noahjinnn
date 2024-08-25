@@ -1,7 +1,7 @@
 <h1>Hello world 👋</h1>
 
 ### About me:
-- >5 years experience SE working for Fintech and IoT startups.
+- More than 5 years experience SE working for Fintech and IoT startups.
 - Proficient in Rust, Golang, Javascript, Flutter.
 - Design and develop DevOps systems for different environments: on-premise, cloud, and hybrid.
 - Experienced with distributed systems, WebAssembly, and cryptography engineering.

@@ -1,10 +1,12 @@
 <h1>Hello world 👋</h1>
 
 ### About me:
-- 5 years experience SE working for Fintech and IoT startups.
-- Sufficient in Rust, Golang, Javascript, Flutter.
-- Hands-on DevOps (on-premise, cloud), WebAssembly, and cryptography engineering.
-- Always prioritize collaboration, clear communication, and customer.
+- >5 years experience SE working for Fintech and IoT startups.
+- Proficient in Rust, Golang, Javascript, Flutter.
+- Design and develop DevOps systems for different environments: on-premise, cloud, and hybrid.
+- Experienced with distributed systems, WebAssembly, and cryptography engineering.
+- Experienced with robust authentication mechanisms: Passkey, OAuth, OpenID.
+- Build and maintain e2e encryption projects that leverage TEE, Multi-Party Computation, Threshold Signature Scheme.
 
 
 ### Contact:
